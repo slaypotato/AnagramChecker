@@ -2,9 +2,8 @@
 Small Javascript program for practicing TDD
 
 To run use:
-´´´´
-npm run test
-´´´´
+` npm run test `
+
 
 ## Tested Items
 ### Anagram checker - basic functionality
